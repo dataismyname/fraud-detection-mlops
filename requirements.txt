@@ -1,8 +1,10 @@
 pandas
+numpy
 scikit-learn
 fastapi
+uvicorn
 kafka-python
-apache-airflow
-boto3
 pyspark
+boto3
 redis
+python-dotenv
